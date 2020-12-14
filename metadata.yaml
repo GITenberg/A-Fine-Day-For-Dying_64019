@@ -1,0 +1,23 @@
+_repo: A-Fine-Day-For-Dying_64019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, John
+    alias: Shepard, Morgan
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '1569'
+    url: http://www.gutenberg.org/2009/agents/1569
+description: ''
+gutenberg_issued: '2020-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Fine Day For Dying
+url: http://www.gutenberg.org/ebooks/64019
